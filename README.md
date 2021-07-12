@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <h1 align="center">Hi 👋, I'm SHUBHAM KUMAR VISHNOI</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Developer from India</h3>
 
