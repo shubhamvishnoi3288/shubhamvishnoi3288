@@ -3,7 +3,7 @@
 
 
 
-<center>![coding-freak](https://user-images.githubusercontent.com/65655892/125985710-de77a50a-a119-4e47-b744-62fdd4290809.gif)</center>
+<center>![coding-freak](https://user-images.githubusercontent.com/65655892/125985710-de77a50a-a119-4e47-b744-62fdd4290809.gif)<center/>
 
 
 <h3 align="center">Professional_Email_Id : ***shubham.1922mca1007@kiet.edu***</h3>
