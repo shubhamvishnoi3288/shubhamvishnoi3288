@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SHUBHAM KUMAR VISHNOI</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Developer from India</h3>
-<h3 align="right"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai"><img src="https://github-profile-trophy.vercel.app/?username=shubhamvishnoi3288" alt="shubhamvishnoi3288" /></a> </h3>
+<p align="right"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai"><img src="https://github-profile-trophy.vercel.app/?username=shubhamvishnoi3288" alt="" /></a> </p>
 
 
 - Professional_Email_Id : **shubham.1922mca1007@kiet.edu**
