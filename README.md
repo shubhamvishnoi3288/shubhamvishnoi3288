@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer and UI/UX Developer from India</h3>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 - Professional_Email_Id : **shubham.1922mca1007@kiet.edu**
