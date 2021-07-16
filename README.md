@@ -2,8 +2,7 @@
 <h3 align="center">A passionate frontend developer and UI/UX Developer from India</h3>
 
 
-
-![coding-freak](https://user-images.githubusercontent.com/65655892/125985710-de77a50a-a119-4e47-b744-62fdd4290809.gif)
+![1614697385036](https://user-images.githubusercontent.com/65655892/125986613-d779555e-8de1-4e8d-a5fc-735deac7e4c0.jpg)
 
 
 <h3 align="center">Professional_Email_Id : ***shubham.1922mca1007@kiet.edu***</h3>
