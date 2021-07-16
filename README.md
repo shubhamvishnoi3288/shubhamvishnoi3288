@@ -20,4 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamvishnoi3288&show_icons=true&locale=en" alt="shubhamvishnoi3288" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamvishnoi3288&" alt="shubhamvishnoi3288" /></p>
-<p align="right"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai"><img src="https://github-profile-trophy.vercel.app/?username=shubhamvishnoi3288" alt="" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai"><img src="https://github-profile-trophy.vercel.app/?username=shubhamvishnoi3288" alt="" /></a> </p>
