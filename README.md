@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SHUBHAM KUMAR VISHNOI</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Developer from India</h3>
 
-
-https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15
-
+<center>
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai
+</center>
 
 
 - Professional_Email_Id : **shubham.1922mca1007@kiet.edu**
