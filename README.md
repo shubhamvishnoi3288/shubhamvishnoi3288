@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm SHUBHAM KUMAR VISHNOI</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Developer from India</h3>
 
+https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
