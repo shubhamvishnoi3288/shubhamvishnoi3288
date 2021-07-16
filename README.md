@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm SHUBHAM KUMAR VISHNOI</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhamvishnoi3288&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamvishnoi3288" /> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - Professional_Email_Id : **shubham.1922mca1007@kiet.edu**
