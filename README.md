@@ -21,7 +21,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamvishnoi3288&show_icons=true&locale=en&layout=compact" alt="shubhamvishnoi3288"/><img align="left" src="https://github-readme-stats.vercel.app/api?username=shubhamvishnoi3288&show_icons=true&locale=en" alt="shubhamvishnoi3288" /></p>
 
+<img align="center">
 ![coding-freak](https://user-images.githubusercontent.com/65655892/128463935-b1fc9893-8a7b-409f-aa2b-5527cf89037c.gif)
+</center>
 
 
 
